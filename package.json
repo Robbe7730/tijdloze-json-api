@@ -1,0 +1,19 @@
+{
+  "name": "tijdloze-json-api",
+  "version": "1.0.0",
+  "description": "A JSON-API for https://tijdloze.stijnshome.be/ 's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Robbe7730/tijdloze-json-api.git"
+  },
+  "author": "Robbe Van Herck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robbe7730/tijdloze-json-api/issues"
+  },
+  "homepage": "https://github.com/Robbe7730/tijdloze-json-api#readme"
+}
